@@ -261,8 +261,3 @@ document.getElementById('noBtn').addEventListener('click', function() {
             break;
     }
 });
-
-
-setTimeout(function() {
-    window.location.href = 'rosa.html';
-}, 4000); // Cambia el valor 4000 según la duración total de tus animaciones y mensajes
